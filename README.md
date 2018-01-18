@@ -3,7 +3,13 @@ Simple IPython magic for working with HTML / Javascript Canvas.
 
 To install:
 
-`pip install git+https://github.com/psychemedia/ipython_magic_canvas.git`
+`pip install git+https://github.com/innovationOUtside/ipython_magic_canvas.git`
+
+To upgrade a current installation to the latest repo version without updating dependencies:
+
+`pip install --upgrade --no-depsgit+https://github.com/innovationOUtside/ipython_magic_canvas.git`
+
+
 
 To load the magic in a Jupyter notebook:
 

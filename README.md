@@ -9,7 +9,7 @@ To upgrade a current installation to the latest repo version without updating de
 
 `pip install --upgrade --no-depsgit+https://github.com/innovationOUtside/ipython_magic_canvas.git`
 
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/innovationOUtside/ipython_magic_canvas/master)
 
 To load the magic in a Jupyter notebook:
 

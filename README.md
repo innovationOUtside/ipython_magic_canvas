@@ -7,7 +7,7 @@ To install:
 
 To upgrade a current installation to the latest repo version without updating dependencies:
 
-`pip install --upgrade --no-depsgit+https://github.com/innovationOUtside/ipython_magic_canvas.git`
+`pip install --upgrade --no-deps git+https://github.com/innovationOUtside/ipython_magic_canvas.git`
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/innovationOUtside/ipython_magic_canvas/master)
 
